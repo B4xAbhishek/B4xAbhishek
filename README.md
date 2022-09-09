@@ -1,7 +1,7 @@
 
 # Hi 👋, I'm Abhishek Verma
 
-## I’m a passionate Frontend Web Developer.
+## I’m a passionate Frontend Web Developer and DevOps Engineer.
 
 - 🌱 I’m always learning something new.
 - ⚡ Fun fact: I used to learn hacking when I was in school.
@@ -23,6 +23,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 <br />
 <br />
 <br />
