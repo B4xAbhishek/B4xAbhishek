@@ -12,8 +12,8 @@
 ### Connect with me:
 
 <a href = "https://instagram.com/im_abhishek_verma" style="padding-right: 40px"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/instagram.svg" style="max-width: 100%;padding-right: 25px;"/></a>
-<a href = "https://www.linkedin.com/in/rajat-prasad-a00081189/"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" style="max-width: 100%;padding-right: 25px;"/></a>
-<a href = "https://t.me/rajat009"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/telegram.svg" style="max-width: 100%;padding-right: 25px;"/></a>
+<a href = "https://www.linkedin.com/in/abhishek8073/"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" style="max-width: 100%;padding-right: 25px;"/></a>
+<a href = "https://t.me/rajat09"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/telegram.svg" style="max-width: 100%;padding-right: 25px;"/></a>
 
 ### Languages and Tools:
 
