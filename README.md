@@ -1,7 +1,7 @@
 
 # Hi 👋, I'm Abhishek Verma
 
-## I’m a passionate Frontend Web Developer and DevOps Engineer.
+## I’m a passionate Full Stack Developer (MERN) and DevOps Engineer.
 
 - 🌱 I’m always learning something new.
 - ⚡ Fun fact: I used to learn hacking when I was in school.
