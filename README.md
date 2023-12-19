@@ -9,10 +9,6 @@
 - 🔍 Open to Web Development and SDE roles.
 - 👨🏼‍💻 Check out my problem-solving skills on [Leetcode](https://leetcode.com/b4xabhishek/).
 
-### Connect with me:
-
-[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/instagram.svg)](https://instagram.com/im_abhishek_verma)
-
 ### GitHub Activity:
 
 <!--START_SECTION:activity-->
@@ -32,6 +28,4 @@
 <br />
 <br />
 
-![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=b4xabhishek&show_icons=true&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b4xabhishek&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b4xabhishek&layout=compact)](https://github.com/b4xabhishek/github-readme-stats)
