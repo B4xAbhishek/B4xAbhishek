@@ -29,3 +29,6 @@
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b4xabhishek&layout=compact)](https://github.com/b4xabhishek/github-readme-stats)
+![Abhishek's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=b4xabhishek&theme=darkhub)
+![Abhishek's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=b4xabhishek&theme=dark)
+![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=b4xabhishek&show_icons=true&theme=dark)
