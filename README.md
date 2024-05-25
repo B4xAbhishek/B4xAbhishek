@@ -4,8 +4,8 @@
 ## 🚀 Passionate Full Stack Developer (MERN) and DevOps Engineer.
 
 - 🌱 Always learning and exploring new technologies.
-- ⚡ Fun fact: Former hacker in school days!
-- 👌🏼 Interests: Problem-Solving, Tech, Music, Workout, Science, and random fun facts.
+- ⚡ Fun fact: Played 1 IPL for KKR match in 2015
+- 👌🏼 Interests: Problem-solving, Tech, Music, Workout, Science, and random fun facts.
 - 🔍 Open to Web Development and SDE roles.
 - 👨🏼‍💻 Check out my problem-solving skills on [Leetcode](https://leetcode.com/b4xabhishek/).
 
