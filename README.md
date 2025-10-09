@@ -1,7 +1,7 @@
 
 # Hello there! 👋 I'm Abhishek 
 
-## 🚀 Passionate Full Stack Developer (MERN) and DevOps Engineer.
+## 🚀 Passionate Cloud FUll Stack Enginner with 7+ Years of experince in MERN, FastAPI, AWS, Azure.
 
 - 🌱 Always learning and exploring new technologies.
 - 👌🏼 Interests: Problem-solving, Tech, Music, Workout, Science, and random fun facts.
