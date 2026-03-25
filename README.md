@@ -27,6 +27,4 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b4xabhishek&layout=compact)](https://github.com/b4xabhishek/github-readme-stats)
-
 ---------
